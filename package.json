@@ -1,10 +1,11 @@
 {
   "name": "fly-dotenv",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A Node.js package that helps you copy environment variables from a dotenv file to Fly.io secrets.",
   "main": "index.js",
   "author": "imhjnoh <imhjnoh@gmail.com>",
   "license": "MIT",
+  "repository": "imhjnoh/fly-dotenv",
   "type": "module",
   "bin": {
     "fly-dotenv": "bin/cli.js"

@@ -1,4 +1,6 @@
 # fly-dotenv
+>https://www.npmjs.com/package/fly-dotenv
+
 A Node.js package that helps you copy environment variables from a dotenv file to Fly.io secrets.
 
 This package is inspired by [**heroku-dotenv**](https://www.npmjs.com/package/heroku-dotenv)
